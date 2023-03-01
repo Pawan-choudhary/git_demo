@@ -1,2 +1,2 @@
 # git_demo
- Demonstraion of how to get started with Git
+ Demonstraion of how to get started with Git and GitHub
